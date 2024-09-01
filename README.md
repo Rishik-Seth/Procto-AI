@@ -157,8 +157,7 @@ ProctoAI-MERN utilizes a range of technologies to provide its comprehensive func
 ### Test Page
 
 #### Start
-
-![Test Start](readme-images/test-start.jpg)
+\
 
 #### Submitted
 
@@ -179,6 +178,4 @@ To run this project locally, follow these steps:
 3. Start the server using `npm start` in the backend folder.
 4. Start the React app using `npm start` in the frontend folder.
 
-## Contributors
 
-- [Mohd Zubair](https://github.com/mohdzubairshafi)
